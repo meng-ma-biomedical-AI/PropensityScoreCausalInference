@@ -1,4 +1,4 @@
-# PropensityScoreCausalInference
+# Propensity Score Causal Inference
 
 A tutorial on the use of  potential outcomes as a meaans of identifying causal effects, including the use of propensity score-based methods for evaluating causal relationships. 
 
