@@ -25,14 +25,23 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 Upon completion of this module, students will be able to:
 
 1. Describe the concept of potential outcomes
+
 2. Define an observational study and associated research question as a hypothetical randomized trial
+
 3. Identify the key design issues for making causal inferences about an exposure or intervention of interest
+
 4. Identify the key assumptions for making causal inferences with propensity score-based methods
+
 5. Use causal graphs to specify appropriate models for identifying a causal relationship
+
 6. Write an analysis plan to do each of the following steps:
+
   a. Model the assignment mechanism to predict subjects’ propensity for being treated or exposed
+  
   b. Use the the propensity scores to create a pseudo population that aims to emulate a randomized trial
+  
   c. Apply the appropriate outcomes model to estimate treatment/exposure effects 
+  
   d. Conduct a sensitivity analysis to assess the degree of unmeasured confounding that could change results from a significant to non-significant result
 
 
