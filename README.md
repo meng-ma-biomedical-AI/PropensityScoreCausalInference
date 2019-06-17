@@ -30,6 +30,7 @@ Upon completion of this module, students will be able to:
 4. Identify the key assumptions for making causal inferences with propensity score-based methods
 5. Use causal graphs to specify appropriate models for identifying a causal relationship
 6. Write an analysis plan to do each of the following steps:
+
 6.a Model the assignment mechanism to predict subjects’ propensity for being treated or exposed 
 6.b Use the the propensity scores to create a pseudo population that aims to emulate a randomized trial
 6.c Apply the appropriate outcomes model to estimate treatment/exposure effects 
