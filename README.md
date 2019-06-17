@@ -36,13 +36,13 @@ Upon completion of this module, students will be able to:
 
 6. Write an analysis plan to do each of the following steps:
 
-  a. Model the assignment mechanism to predict subjects’ propensity for being treated or exposed
+    a. Model the assignment mechanism to predict subjects’ propensity for being treated or exposed
   
-  b. Use the the propensity scores to create a pseudo population that aims to emulate a randomized trial
+    b. Use the the propensity scores to create a pseudo population that aims to emulate a randomized trial
   
-  c. Apply the appropriate outcomes model to estimate treatment/exposure effects 
+    c. Apply the appropriate outcomes model to estimate treatment/exposure effects 
   
-  d. Conduct a sensitivity analysis to assess the degree of unmeasured confounding that could change results from a significant to non-significant result
+    d. Conduct a sensitivity analysis to assess the degree of unmeasured confounding that could change results from a significant to non-significant result
 
 
 
