@@ -16,8 +16,18 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 
 ---
+# Using the module
 
+Go to the [Introductory Google Document](https://docs.google.com/document/d/1gEiASrDFEK-oiue6ST_ysG-4kc2MxKJQ7K0ed8nNO18/edit#) and follow the links to the various modules. 
 
+To modify/adapt the content:
+
+1. Use the Google Doc "File/Make a copy" command to Make a copy of the introductory page. 
+2. Make any desired changes to this page.
+3. Make copies of any of the eight module pages. 
+4. Revise the links in the course module table in the introductory document to point to your copies of the module pages (as opposed to the original).
+
+---
 # Description
 
 ## 1. Learning Outcomes
