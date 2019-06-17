@@ -61,36 +61,49 @@ Basic statistics
 
 ## 5. Domain Problem
 
-TBD
+Use of propensity score-based methods to enable causal inference from observational data.
 
 ## 6. Dataset for the case study
 
-TBD
+None
 
 ## 7. Skills to be taught
 
 ### 7.1. Knowledge representation
 
-TBD
+Not applicable
+
 ### 7.2. Computation
 
-TBD
+Not applicable
 
 ### 7.3. Visual Analysis
 
-TBD
+Not applicable
+
 ### 7.4. Statistical Analyses
 
-TBD
+* Identification of outcomes and assignment mechanisms
+* Calculation of propensity scores
+* Creation of psuedo-populations
+* Estimation of treatment/exposure effects
+* Conduct of sensitivity analyses
+* Assessment of unmeasured confounding
 
 ### 7.5. Reproducibility
 
-TBD
+* Use of statistical tools such as R and/or STATA to conduct analyses
 
 ## 8. Problem solving skills
-TBD
+
+* Examination of observational data to identify opportunities and assumptions underlying propensity score-based methods
+* Creation of appropriate causal graphs
+* Identification of potential confounds
 
 ## 9. Reflection
 
-TBD
+* What are the strengths and weaknesses of propensity score-based methods relative to randomly-controlled trials (RCTs)?
+* How can propensity score-based methods complement RCTs?
+* How can propensity score-based methods be effectively and rigorously used to advance our understanding of key medical phenomeena?  
+
 
