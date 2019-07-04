@@ -7,7 +7,7 @@ A tutorial on the use of  potential outcomes as a meaans of identifying causal e
 
 Materials are presented as a series of hyper-linked Google Documents, suitable for copying and adapting as desired. 
 
-The best place to start is with the [Introductory Google Document](https://docs.google.com/document/d/1gEiASrDFEK-oiue6ST_ysG-4kc2MxKJQ7K0ed8nNO18/edit#). Links from within this document will take the reader to relevant modules and supporting materials. 
+The best place to start is with the [Introductory Google Document](https://docs.google.com/document/d/1UDTkp3rbhqdun7jvSvktaZmTtoUWOz_VUDQw3HIsElg/edit). Links from within this document will take the reader to relevant modules and supporting materials. 
 
 # Funding
 
